@@ -1,0 +1,5 @@
+compilers:
+  - name: clang
+    cmake_extra_flags: ""
+    skip_regression: true
+

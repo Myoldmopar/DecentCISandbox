@@ -1,0 +1,6 @@
+compilers:
+  - name: Visual Studio
+    version: 16
+    architecture: Win64
+    cmake_extra_flags: ""
+    skip_regression: true

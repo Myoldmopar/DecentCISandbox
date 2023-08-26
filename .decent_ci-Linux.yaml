@@ -1,0 +1,6 @@
+compilers:
+  - name: "gcc"
+    version: "11.4"
+    cmake_extra_flags: ""
+    skip_regression: true
+
